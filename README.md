@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Whitney Smith
-- 👀 I’m interested in Python and Backend Development
-- 🌱 I’m currently learning C++, Java, and Nextjs
-- 💞️ I'm working on a personal recipe website to host my favorite recipes using HTML, CSS, and Javascript. I want to switch to a frontend framework.
+- 👋 Hi, I’m Whitney Smith.
+- 👀 I’m interested in Python, Embdedded Systems, and Backend Development.
+- 🌱 I’m currently learning C and all things Linux.
+- 🎸 I'm working on custom guitar pedal. I hacked together the hardware and I'm working on customizing a fork of the open-source software called guitarix.
 
 <!---
 whitneyjsmith/whitneyjsmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
